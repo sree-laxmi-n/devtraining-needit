@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category">
+    <sys_properties_category action="INSERT_OR_UPDATE">
+        <name>Needit Properties</name>
+        <sys_class_name>sys_properties_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-05-22 18:49:21</sys_created_on>
+        <sys_id>a31f6a4247de4210dbb2b5f4316d4337</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_properties_category_a31f6a4247de4210dbb2b5f4316d4337</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-05-22 18:49:21</sys_updated_on>
+        <title><![CDATA[<p style="text-align: center;"><span style="text-decoration: underline; font-size: 18pt; color: #e03e2d;"><strong>Winter</strong></span> <img title="StockCake-Winter Night Magic_1716403649.jpg" src="/sys_attachment.do?sys_id&#61;1b70368e479e4210dbb2b5f4316d433b" alt="" width="1024" height="1024" /></p>]]></title>
+    </sys_properties_category>
+    <sys_translated_text action="delete_multiple" query="documentkey=a31f6a4247de4210dbb2b5f4316d4337"/>
+</record_update>
